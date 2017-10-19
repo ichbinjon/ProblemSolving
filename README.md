@@ -18,6 +18,7 @@ Resources:
 	
 
 </details>
+
 <details>
 	<summary> 
 		You have two ropes. Each burns completely in exactly one hour. However, they are different lengths and thus burn at different rates. Also, along each rope the width & material changes, so they burn at different rates at different places. The only thing you know is that they each burn completely in one hour exactly.
