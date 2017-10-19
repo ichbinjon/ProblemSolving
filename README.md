@@ -17,9 +17,7 @@ Resources:
 	4) If it does not tilt, weigh the other 2 taken away in 1) and find the heavier jar.
 	
 
-</details>
-
-
+</details><br/>
 <details>
 	<summary> 
 		You have two ropes. Each burns completely in exactly one hour. However, they are different lengths and thus burn at different rates. Also, along each rope the width & material changes, so they burn at different rates at different places. The only thing you know is that they each burn completely in one hour exactly.
