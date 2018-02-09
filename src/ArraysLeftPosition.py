@@ -13,6 +13,8 @@ def array_left_rotation_2(a, n, k):
     # another solution using list slicing
         return a[k:]+a[:k]
 
+# you can also do things with newindex = index + shift % n
+
 
 n, k = map(int, input().strip().split(' '))
 a = list(map(int, input().strip().split(' ')))
